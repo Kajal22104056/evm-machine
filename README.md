@@ -1,3 +1,3 @@
-# evm-machine 
+# electronic voting machine
 ece tinkercad project
 
